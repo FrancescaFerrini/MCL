@@ -5,27 +5,27 @@ Flamindo is an application dedicated to user introspection through music, facili
 ## *Screenshots*
 
 <div align="center">
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/5f350eb7-ddaf-4db6-9b46-063b925386c4" width="300" />
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/4d9ab3ae-a5bb-4a36-a2d7-6563dd809af6" width="300" />
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/1bdbc74a-14a3-46cf-87c7-b1dddd45fdbc" width="300" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/5f350eb7-ddaf-4db6-9b46-063b925386c4" width="270" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/4d9ab3ae-a5bb-4a36-a2d7-6563dd809af6" width="270" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/1bdbc74a-14a3-46cf-87c7-b1dddd45fdbc" width="270" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/2c84db72-1aa3-4ebb-bbdc-0d5bd247d266" width="300" />
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/fb026595-1593-4714-bdf1-b7783a1c5331" width="300" />
-  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/a1df6f7d-deaf-4702-9960-70d93bc41c62" width="300" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/2c84db72-1aa3-4ebb-bbdc-0d5bd247d266" width="270" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/fb026595-1593-4714-bdf1-b7783a1c5331" width="270" />
+  <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/a1df6f7d-deaf-4702-9960-70d93bc41c62" width="270" />
 </div>
 
 <div align="center">
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/5517c950-0b43-4f6b-9fee-5fa745ae0a67" width="300" />
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/c75aa424-1669-4885-82a2-44c96dc00000" width="300" />
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/f8118ccf-dd9a-4f06-87bd-eee4ca26a160" width="300" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/5517c950-0b43-4f6b-9fee-5fa745ae0a67" width="270" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/c75aa424-1669-4885-82a2-44c96dc00000" width="270" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/f8118ccf-dd9a-4f06-87bd-eee4ca26a160" width="270" />
 </div>
 
 <div align="center">
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/c9d10379-2965-4953-b9df-7a09e49fadb5" width="300" />
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/d09e6069-6e24-483c-b094-6737450a2e46" width="300" />
-   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/9710644d-011b-402b-a890-faa9c92fa69c" width="300" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/c9d10379-2965-4953-b9df-7a09e49fadb5" width="270" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/d09e6069-6e24-483c-b094-6737450a2e46" width="270" />
+   <img src="https://github.com/FrancescaFerrini/MCL/assets/75753679/9710644d-011b-402b-a890-faa9c92fa69c" width="270" />
 </div>
 
 <div align="center">
